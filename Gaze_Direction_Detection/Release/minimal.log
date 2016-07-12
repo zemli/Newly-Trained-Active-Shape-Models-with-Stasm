@@ -1,0 +1,17 @@
+﻿Build started 2016/7/10 14:42:34.
+     1>Project "C:\Users\Kelly\Desktop\original_stasm4.1.0\vc10\minimal.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\leye.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         minimal.vcxproj -> C:\Users\Kelly\Desktop\original_stasm4.1.0\vc10\\leye.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\leye.unsuccessfulbuild".
+         Touching "Release\leye.lastbuildstate".
+     1>Done Building Project "C:\Users\Kelly\Desktop\original_stasm4.1.0\vc10\minimal.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
